@@ -1,0 +1,3 @@
+[submodule "themes/catppuccin"]
+	path = themes/catppuccin
+	url = git@github.com:gin-18/hexo-theme-catppuccin.git
